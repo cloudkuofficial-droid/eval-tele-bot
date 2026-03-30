@@ -1,0 +1,9 @@
+{
+  "name": "arsyilla-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot",
+  "main": "api/webhook.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.65.0"
+  }
+}
